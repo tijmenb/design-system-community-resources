@@ -43,7 +43,7 @@ Examples:
 
 Examples:
 
-- [GOV.UK](https://www.gov.uk) itself uses the Design System via [GOV.UK Publishing Components](https://https://github.com/alphagov/govuk_publishing_components) (GDS)
+- [GOV.UK](https://www.gov.uk) itself uses the Design System via [GOV.UK Publishing Components](https://github.com/alphagov/govuk_publishing_components) (GDS)
 - [Find teacher training](https://github.com/DFE-Digital/find-teacher-training) (DfE)
 - [Apply for teacher training](https://github.com/DFE-Digital/apply-for-postgraduate-teacher-training) (DfE)
 - [Teacher Vacancy Service](https://github.com/DFE-Digital/teacher-vacancy-service) (DfE)
