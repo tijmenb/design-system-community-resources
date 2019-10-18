@@ -12,16 +12,14 @@ These are the tools officially supported by the Design System team in GDS.
 - [GOV.UK Frontend](https://github.com/alphagov/govuk-frontend)
 - [GOV.UK Prototype Kit](https://govuk-prototype-kit.herokuapp.com/docs)
 
-## Unofficial tools & resources
-
-### Javascript/Node.js
-
-- [govuk-react/govuk-react](https://github.com/govuk-react/govuk-react) - GOV.UK Design System in React using CSSinJS
-- [daviddotto/govuk-design-system-snippets](https://github.com/daviddotto/govuk-design-system-snippets) - Nunjucks macro snippets for popular code editors
+### Node.js
+- [GOV.UK Frontend](https://github.com/alphagov/govuk-frontend) - supports Nunjucks templating language for Node.js
 
 Examples:
 
 - [GOV.UK Pay](https://github.com/alphagov/pay-frontend)
+
+## Unofficial tools & resources
 
 ### Python
 
@@ -34,6 +32,9 @@ Examples:
 ### PHP
 
 - [GOV.UK Design System Drupal Theme](https://www.drupal.org/project/govuk_design_system)
+
+### React
+- [govuk-react/govuk-react](https://github.com/govuk-react/govuk-react) - GOV.UK Design System in React using CSSinJS
 
 ### Ruby
 
@@ -53,3 +54,7 @@ Examples:
 ### R
 
 - [ukgovdatascience/govdown](https://github.com/ukgovdatascience/govdown) - GOV.UK Design System theme for R Markdown
+
+### Code editor plugins
+
+- [daviddotto/govuk-design-system-snippets](https://github.com/daviddotto/govuk-design-system-snippets) - Nunjucks macro snippets for popular code editors
