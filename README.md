@@ -12,6 +12,9 @@ These are the tools officially supported by the Design System team in GDS.
 - [GOV.UK Frontend](https://github.com/alphagov/govuk-frontend)
 - [GOV.UK Prototype Kit](https://govuk-prototype-kit.herokuapp.com/docs)
 
+### HTML
+You can copy and paste the HTML examples into your project if there is no templating support.
+
 ### Node.js
 - [GOV.UK Frontend](https://github.com/alphagov/govuk-frontend) - supports Nunjucks templating language for Node.js
 
