@@ -1,6 +1,8 @@
 # GOV.UK Design System Community Resources
 
-This is a collection of examples and tools built by the cross-government developer community to use the GOV.UK Design System and GOV.UK Frontend.
+This is a collection of examples and tools built by the cross-government developer community to use the GOV.UK Design System and GOV.UK Frontend. 
+
+You may also be interested in other [resources to help digital teams working in the public sector](https://github.com/MatMoore/digital-service-resources).
 
 This list is maintained by the community. Please [raise an issue or Pull Request](https://github.com/tijmenb/design-system-community-resources/issues/new) to add something.
 
