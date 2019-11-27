@@ -23,6 +23,7 @@ You can copy and paste the HTML examples into your project if there is no templa
 Examples:
 
 - [GOV.UK Pay](https://github.com/alphagov/pay-frontend)
+- [GDS Node.js boilerplate](https://github.com/alphagov/gds-nodejs-boilerplate)
 
 ## Unofficial tools & resources
 
