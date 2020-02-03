@@ -1,6 +1,6 @@
 # GOV.UK Design System Community Resources
 
-This is a collection of examples and tools built by the cross-government developer community to use the GOV.UK Design System and GOV.UK Frontend. 
+This is a collection of examples and tools built by the cross-government developer community to use the GOV.UK Design System and GOV.UK Frontend.
 
 You may also be interested in other [resources to help digital teams working in the public sector](https://github.com/MatMoore/digital-service-resources).
 
@@ -63,7 +63,7 @@ Examples:
 
 ### C# / ASP.Net Core
 
-- [Gov.UK Design System in C# / ASP.Net Core](https://github.com/cabinetoffice/govuk-design-system-dotnet) - Gov.UK Design System components in Razor components, with optional validation and error message generation
+- [GOV.UK Design System in C# / ASP.Net Core](https://github.com/cabinetoffice/govuk-design-system-dotnet) - GOV.UK Design System components in Razor components, with optional validation and error message generation
 
 ### Code editor plugins
 
