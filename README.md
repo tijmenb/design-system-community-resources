@@ -27,6 +27,10 @@ Examples:
 
 ## Unofficial tools & resources
 
+### Figma
+
+- You can import the [Sketch wireframing kit](#sketch) into Figma.
+
 ### Python
 
 - [alphagov/govuk-frontend-jinja](https://github.com/alphagov/govuk-frontend-jinja) - Tools to use the GOV.UK Design System with Python webapps that use Jinja2 and Flask.
@@ -60,6 +64,10 @@ Examples:
 ### R
 
 - [ukgovdatascience/govdown](https://github.com/ukgovdatascience/govdown) - GOV.UK Design System theme for R Markdown
+
+### Sketch
+
+- [Sketch wireframing kit](https://github.com/abbott567/sketch_wireframing_kit) includes components and patterns from the GOV.UK Design System.
 
 ### C# / ASP.Net Core
 
