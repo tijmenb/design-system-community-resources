@@ -45,6 +45,7 @@ Examples:
 
 ### React
 - [govuk-react/govuk-react](https://github.com/govuk-react/govuk-react) - GOV.UK Design System in React using CSSinJS
+- [govuk-react-jsx](https://github.com/surevine/govuk-react-jsx) - A port of the govuk-frontend Nunjucks to lightweight JSX (Directly consuming govuk CSS/JS). See readme for more detailed comparison with govuk-react.
 
 ### Ruby
 
