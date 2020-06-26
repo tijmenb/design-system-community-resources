@@ -34,10 +34,11 @@ Examples:
 ### Python
 
 - [alphagov/govuk-frontend-jinja](https://github.com/alphagov/govuk-frontend-jinja) - Tools to use the GOV.UK Design System with Python webapps that use Jinja2 and Flask.
-
-Examples:
-
-- [Digital Marketplace](https://github.com/alphagov/digitalmarketplace-user-frontend)
+  - Example: [Digital Marketplace](https://github.com/alphagov/digitalmarketplace-user-frontend)
+- [LandRegistry/govuk-frontend-jinja](https://github.com/LandRegistry/govuk-frontend-jinja) - Provides a complete set of Jinja macros that are kept up-to-date and 100% compliant with the govuk-frontend Nunjucks macros. Porting is intentionally manual rather than automated to make updates simpler than maintaining an automated conversion routine. A [comprehensive test suite](https://github.com/surevine/govuk-frontend-diff) ensures compliance against the latest, and every subsequent, GOV.UK Frontend release.
+  - Package: https://pypi.org/project/govuk-frontend-jinja/
+  - Example: https://github.com/matthew-shaw/govuk-frontend-jinja-example
+  - Demo: https://govuk-frontend-jinja.herokuapp.com/
 
 ### PHP
 
