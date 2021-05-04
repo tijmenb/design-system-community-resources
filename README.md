@@ -1,10 +1,14 @@
-# GOV.UK Design System Community Resources
+# [Unofficial] GOV.UK Design System Community Resources
 
-This is a collection of examples and tools built by the cross-government developer community to use the GOV.UK Design System and GOV.UK Frontend.
+---
+# 🔥🆕 Update May 2021: You can [now find an officially maintained list of resources and tools](https://design-system.service.gov.uk/community/resources-and-tools) on the GOV.UK Design System site. If you can, add your thing there!
+---
 
-You may also be interested in other [resources to help digital teams working in the public sector](https://github.com/MatMoore/digital-service-resources).
+This is an unofficial collection of examples and tools built by the cross-government developer community to use the GOV.UK Design System and GOV.UK Frontend.
 
-This list is maintained by the community. Please [raise an issue or Pull Request](https://github.com/tijmenb/design-system-community-resources/issues/new) to add something.
+You may also be interested in other [resources to help digital teams working in the public sector](https://github.com/MatMoore/digital-service-resources#readme).
+
+This list is maintained by the community. Please [raise an issue or Pull Request](https://github.com/tijmenb/design-system-community-resources/issues/new) to add something. You can [now find an officially maintained list of resources and tools](https://design-system.service.gov.uk/community/resources-and-tools) on the GOV.UK Design System site
 
 ## Officially supported tools
 
